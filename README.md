@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Cyrus Kyalo from Nairobi, Kenya<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning web development and database management <br>- ⚡ In my free time I like collaborating, and coding<br>- you can find me in Facebook and LinkedIn <br>- Ask me about Statistics, Mathematical Notations</p>
+<p align="left">I'm Cyrus Kyalo from Nairobi, Kenya<br><br>- 📚 I'm currently learning web development and database management <br>- ⚡ In my free time I like collaborating, and coding<br>- you can find me in Facebook and LinkedIn <br>- Ask me about Statistics, Mathematical Notations</p>
 
 ###
 
